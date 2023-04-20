@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromtStorage", "PromtStorage\PromtStorage.csproj", "{E3E5D305-A589-461F-9981-F0F1FB1C4C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3E5D305-A589-461F-9981-F0F1FB1C4C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E5D305-A589-461F-9981-F0F1FB1C4C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E5D305-A589-461F-9981-F0F1FB1C4C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E5D305-A589-461F-9981-F0F1FB1C4C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
